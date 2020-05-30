@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'presentation/login/login.screen.dart';
+import 'package:teste_flutter/presentation/cadastro/cadastro.screen.dart';
 
 void main() => runApp(MyApp());
 
@@ -12,7 +11,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
       ),
-      home: LoginScreen(),
+      home: CadastroScreen(),
     );
   }
 }

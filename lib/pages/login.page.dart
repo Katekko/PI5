@@ -76,8 +76,8 @@ class LoginPage extends StatelessWidget{
                           color: Color.fromRGBO(143, 148, 251, 0.6),
                           blurRadius: 20.0,
                           offset: Offset(0, 10)
-                        )
-                      ]
+                        ),
+                      ],
                     ),
                     child: Column(
                       children: <Widget>[
@@ -139,7 +139,7 @@ class LoginPage extends StatelessWidget{
             SizedBox(
               height: 70,
             ),
-            
+
             Container(
               height: 40,
               width: 550,

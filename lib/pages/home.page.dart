@@ -78,7 +78,7 @@ class HomePage extends StatelessWidget{
                     color: Colors.lightBlue[800],
                     borderRadius: BorderRadius.only(topLeft: Radius.circular(55.0)),
                   ),
-                )
+                ),
               ]
             ),
           )
